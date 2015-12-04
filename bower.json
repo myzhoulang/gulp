@@ -1,0 +1,31 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "gulp bower",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "\"gulp\""
+  ],
+  "authors": [
+    "zhoulang"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "chai": "~3.4.2",
+    "mocha": "~2.3.4"
+  },
+  "dependencies": {
+    "angular": "~1.4.8",
+    "jquery": "~2.1.4"
+  }
+}
